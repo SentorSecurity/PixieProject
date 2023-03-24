@@ -5,7 +5,6 @@
         "mspOfferName": {
             "type": "string",
                 "defaultValue": "Sentor MSS Delivery"
-            }
         },
         "mspOfferDescription": {
             "type": "string",
