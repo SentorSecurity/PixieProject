@@ -1,6 +1,6 @@
 {
     "name":  "MDM(iOS/iPadOS)-Pixie-Level 3 (Tweak)",
-    "description":  "Pixie-Level 3 (Tweak)\n\nInkluderar: \n*Lvl1\n*Lvl2\n*Våra rekommendationer\n*Önskemål från kund",
+    "description":  "Pixie-Level 3 (Tweak)\n\nInkluderar: \n*Lvl1\n*Lvl2\n*VÃ¥ra rekommendationer\n*Ã–nskemÃ¥l frÃ¥n kund",
     "platforms":  "iOS",
     "technologies":  "mdm,appleRemoteManagement",
     "settings":  [
